@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552202948357.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2137319844",
+    "id" : "F2345F7F",
+    "lastKnownWriteTime" : 1552202986,
+    "last_content_update" : 1552202986443,
+    "path" : "~/GitHub/my-R-practice/2019-3-10-2.Rmd",
+    "project_path" : "2019-3-10-2.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
